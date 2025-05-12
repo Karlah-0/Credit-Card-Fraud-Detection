@@ -6,7 +6,7 @@ Exploratory Data Analysis (EDA), predictive fraud modeling and analysis of a fak
 ![image](https://github.com/user-attachments/assets/be467378-3928-431e-8d7a-9f26f04668d5)
 
 
-### Installation:
+### Installation (for local execution):
 1. Create virtual enviroment
 ```bash
 $ uv venv
@@ -16,7 +16,9 @@ $ uv venv
 $ uv pip install -r requirements.txt
 ```
 
-## Web Scrapping
+### 💡 Suggestion: You can also upload the ipynb file and execute it directly on Google Colab with all instances pre-installed. 
+
+## Web Scrapping (See the Jupyter Notebook)
 
 Go to [collect](./collect/) folder
 =======
