@@ -16,7 +16,8 @@ $ uv venv
 $ uv pip install -r requirements.txt
 ```
 
-### 💡 Suggestion: You can also upload the ipynb file and execute it directly on Google Colab with all instances pre-installed. 
+### 💡 Suggestion: 
+You can also upload the ipynb file and execute it directly on Google Colab with all instances pre-installed. 
 
 ## Web Scrapping (See the Jupyter Notebook)
 
